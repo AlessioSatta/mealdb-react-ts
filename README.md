@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This project use react-router-dom, please execute npm install before start the app.
 ## Available Scripts
 
 In the project directory, you can run:
